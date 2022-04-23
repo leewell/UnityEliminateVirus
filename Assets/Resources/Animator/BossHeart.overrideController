@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BossHeart
+  m_Controller: {fileID: 9100000, guid: 9650b4d794ea2404dad0aa4591381457, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2788348a1bf379c4b95322ef975256af, type: 2}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: b9e78ee47227a50429335ce9daf4d8da,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f95c6f1e5842818488cde2eb5a43f7da, type: 2}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: f43f9884d580498479a21b0610fb7636,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 37d0ef5c36cccac4ea9a2363a03fd4f8, type: 2}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: fd353bfbe86e5a645b4e2d39e130b95e,
+      type: 3}

@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: f1b44d8071974804c9b779d495ec48fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5953918646605156593
+    second: Light theme spritesheet 1_0
+  - first:
+      213: -6532541684399175644
+    second: Light theme spritesheet 1_1
+  - first:
+      213: 959261848191003276
+    second: Light theme spritesheet 1_2
+  - first:
+      213: 1803365412068701039
+    second: Light theme spritesheet 1_3
+  - first:
+      213: -7171646239962760034
+    second: Light theme spritesheet 1_4
+  - first:
+      213: 1195408879370011620
+    second: Light theme spritesheet 1_5
+  - first:
+      213: -4159002483961407137
+    second: Light theme spritesheet 1_6
+  - first:
+      213: -6440293093962415026
+    second: Light theme spritesheet 1_7
+  - first:
+      213: -6283244556340042521
+    second: Light theme spritesheet 1_8
+  - first:
+      213: -4552699183999650041
+    second: Light theme spritesheet 1_9
+  - first:
+      213: -5353000562721766730
+    second: Light theme spritesheet 1_10
+  - first:
+      213: 4124985117748363240
+    second: Light theme spritesheet 1_11
+  - first:
+      213: 7326513605543762409
+    second: Light theme spritesheet 1_12
+  - first:
+      213: -6145745931070361934
+    second: Light theme spritesheet 1_13
+  - first:
+      213: -5386691611469224646
+    second: Light theme spritesheet 1_14
+  - first:
+      213: 5482440186110568950
+    second: Light theme spritesheet 1_15
+  - first:
+      213: 8445616339257427692
+    second: Light theme spritesheet 1_16
+  - first:
+      213: 403925759948137071
+    second: Light theme spritesheet 1_17
+  - first:
+      213: 7978337709231464371
+    second: Light theme spritesheet 1_18
+  - first:
+      213: 6719213290384388190
+    second: Light theme spritesheet 1_19
+  - first:
+      213: 1903629249313577215
+    second: Light theme spritesheet 1_20
+  - first:
+      213: -3260850691762228536
+    second: Light theme spritesheet 1_21
+  - first:
+      213: 2015246914014876986
+    second: Light theme spritesheet 1_22
+  - first:
+      213: -3686330974396812468
+    second: Light theme spritesheet 1_23
+  - first:
+      213: -4638584668335742887
+    second: Light theme spritesheet 1_24
+  - first:
+      213: -2599848212295581237
+    second: Light theme spritesheet 1_25
+  - first:
+      213: -4685923072251854323
+    second: Light theme spritesheet 1_26
+  - first:
+      213: 8651620472561409960
+    second: Light theme spritesheet 1_27
+  - first:
+      213: -483144714733006877
+    second: Light theme spritesheet 1_28
+  - first:
+      213: -8986699409527442982
+    second: Light theme spritesheet 1_29
+  - first:
+      213: -546638770693876935
+    second: Light theme spritesheet 1_30
+  - first:
+      213: 3356388422150036814
+    second: Light theme spritesheet 1_31
+  - first:
+      213: -6339889485416947469
+    second: Light theme spritesheet 1_32
+  - first:
+      213: -6938032832526439817
+    second: Light theme spritesheet 1_33
+  - first:
+      213: 7062472561026955446
+    second: Light theme spritesheet 1_34
+  - first:
+      213: 8680486747505093636
+    second: Light theme spritesheet 1_35
+  - first:
+      213: 2342414515838485233
+    second: Light theme spritesheet 1_36
+  - first:
+      213: 3107962541054853588
+    second: Light theme spritesheet 1_37
+  - first:
+      213: 3193731815220806706
+    second: Light theme spritesheet 1_38
+  - first:
+      213: -6138798409113109134
+    second: Light theme spritesheet 1_39
+  - first:
+      213: -3708834208625000457
+    second: Light theme spritesheet 1_40
+  - first:
+      213: 2909340835892410138
+    second: Light theme spritesheet 1_41
+  - first:
+      213: -4054422042750414774
+    second: Light theme spritesheet 1_42
+  - first:
+      213: 5844306251241216476
+    second: Light theme spritesheet 1_43
+  - first:
+      213: 3431656969669775321
+    second: Light theme spritesheet 1_44
+  - first:
+      213: -4885985449811262795
+    second: Light theme spritesheet 1_45
+  - first:
+      213: -337333694993276335
+    second: Light theme spritesheet 1_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light theme spritesheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 2468
+        width: 485
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42884fce2ffb755a0800000000000000
+      internalID: -6532541684399175644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3354
+        width: 485
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09970c67190a250800000000000000
+      internalID: 5953918646605156593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2407
+        width: 135
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a620c819bff4d00800000000000000
+      internalID: 959261848191003276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2393
+        width: 228
+        height: 709
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b492a947d60910800000000000000
+      internalID: 1803365412068701039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3419
+        width: 234
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf044edb1397c90800000000000000
+      internalID: -7171646239962760034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3414
+        width: 268
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38230da02f69010800000000000000
+      internalID: 1195408879370011620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3428
+        width: 219
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f595383b6414846c0800000000000000
+      internalID: -4159002483961407137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 51
+        width: 704
+        height: 704
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4408fc9d8b7f96a0800000000000000
+      internalID: -6440293093962415026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
